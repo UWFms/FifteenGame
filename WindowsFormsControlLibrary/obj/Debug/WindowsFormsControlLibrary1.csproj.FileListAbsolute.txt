@@ -1,0 +1,16 @@
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.GameTimer.resources
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\Прога\FifteenGame\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.GameTimer.resources
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+E:\Прога\FifteenGame — копия\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

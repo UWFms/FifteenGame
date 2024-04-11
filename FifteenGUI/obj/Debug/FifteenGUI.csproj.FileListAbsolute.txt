@@ -1,0 +1,37 @@
+E:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+E:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe
+E:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.pdb
+E:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.AssemblyReference.cache
+E:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+E:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+E:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+E:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.exe
+E:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.pdb
+D:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+D:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe
+D:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.pdb
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.AssemblyReference.cache
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.exe
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.pdb
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Fifteen.resources
+D:\Прога\FifteenGame\FifteenGUI\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Прога\FifteenGame\FifteenGUI\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Прога\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CopyComplete
+D:\Прога\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.xml
+E:\Прога\FifteenGame — копия\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+E:\Прога\FifteenGame — копия\FifteenGUI\bin\Debug\FifteenGUI.xml
+E:\Прога\FifteenGame — копия\FifteenGUI\bin\Debug\FifteenGUI.exe
+E:\Прога\FifteenGame — копия\FifteenGUI\bin\Debug\FifteenGUI.pdb
+E:\Прога\FifteenGame — копия\FifteenGUI\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\Прога\FifteenGame — копия\FifteenGUI\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.csproj.AssemblyReference.cache
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.Fifteen.resources
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.csproj.CopyComplete
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.exe
+E:\Прога\FifteenGame — копия\FifteenGUI\obj\Debug\FifteenGUI.pdb
